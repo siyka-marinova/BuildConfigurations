@@ -77,7 +77,7 @@
   "Framework": "Cordova",
   "CordovaPluginVariables": {
     "com.aylien.text": {
-      "API_KEY": ""
+      "API_KEY": "1"
     },
     "com.telerik.leanplum": {
       "APP_ID": "1.1.1.1.",
