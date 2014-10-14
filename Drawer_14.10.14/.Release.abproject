@@ -1,0 +1,15 @@
+{
+  "CordovaPluginVariables": {
+    "com.aylien.text": {
+      "API_KEY": "2.2.2.2"
+    },
+    "com.telerik.leanplum": {
+      "APP_ID": "2.2.2.2",
+      "DEVELOPMENT_KEY": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+      "PRODUCTION_KEY": "ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+    },
+    "com.telerik.mobiletesting": {
+      "IOS_APP_URL": ""
+    }
+  }
+}
